@@ -20,8 +20,8 @@ Chandler's Portfolio is organized into the following files:
 
 **Link to deployed version of Chandler's Portfolio**
 
-Website:
-GitHub Repository:
+Website: https://echandlerdavis.github.io/JS-Password-Generator/
+GitHub Repository: https://github.com/echandlerdavis/JS-Password-Generator
 
 **Technologies Used** 
 
